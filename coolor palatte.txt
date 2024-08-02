@@ -1,0 +1,11 @@
+*individual pages
+1.cart page
+
+
+#BC6958 dark pink
+#242424 black
+#5A5A54 grey black
+#F5D2BD lightest pink
+#FBEDE6 almost same|
+#e79d9d homepage
+#faeae4 light pink
